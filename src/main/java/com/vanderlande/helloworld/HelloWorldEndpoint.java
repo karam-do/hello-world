@@ -8,6 +8,6 @@ public class HelloWorldEndpoint {
 	
 	@GetMapping(path = "/hello")
 	public String helloWorld()  {
-		return "Hello World!";
+		return "Hello World 2 !";
 	}
 }
